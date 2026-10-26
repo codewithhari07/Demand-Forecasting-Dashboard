@@ -1,6 +1,6 @@
 # Retail Sales & Demand Forecasting Dashboard
 
-An educational portfolio project using the supplied `sales_data.csv`. It trains two demand-regression models (LightGBM Regressor and Random Forest Regressor), selects the best regression model by validation MAE, and trains a separate Logistic Regression classifier to flag high-demand observations. Model pipelines are saved with Python `pickle` and used in the Streamlit dashboard.
+An educational portfolio project using the supplied `sales_data.csv`. It trains two demand-regression models (LightGBM Regressor and Random Forest Regressor), selects the best regression model by validation MAE, and trains a separate Logistic Regression classifier to flag high-demand observations. Model pipelines are saved with Python `pickle` and used in the Streamlit dashboard. Deployment link: https://sales-demand-forecasting-dashboard.streamlit.app/
 
 ## Dataset
 
