@@ -1,0 +1,2 @@
+model,positive_class_definition,high_demand_threshold,accuracy,precision,recall,f1,roc_auc,validation_rows
+Logistic Regression Classifier,Demand >= 134.00,134.0,0.7751700680272109,0.47242152466367715,0.6887871853546911,0.5604468679345658,0.8345028937102994,14700
